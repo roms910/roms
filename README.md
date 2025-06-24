@@ -57,7 +57,7 @@ Proyek ini secara eksplisit ditujukan untuk lingkungan modern dan tidak mendukun
 
 ![metadata](https://files.catbox.moe/2q3axe.jpg)
 
-> **Recode Baileys By DinzID**
+> **Recode Baileys By Romss**
 
 [☏ Admin Contact ](https://dinzlinktr.netlify.app/)
 
