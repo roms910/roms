@@ -59,7 +59,5 @@ Proyek ini secara eksplisit ditujukan untuk lingkungan modern dan tidak mendukun
 
 > **Recode Baileys By Romss**
 
-[☏ Admin Contact ](https://dinzlinktr.netlify.app/)
-
 
 > **Copyright © 2024 - 2025 Naruya Izumi**
