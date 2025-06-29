@@ -1,17 +1,17 @@
 {
-  "name": "DinzID",
+  "name": "romss",
   "version": "25.9.1",
   "description": "baileys whatsapp-api",
   "keywords": [
     "whatsapp",
     "baileys"
   ],
-  "homepage": "https://github.com/DinzID/DinzV1Baileys",
+  "homepage": "https://github.com/roms910/roms",
   "repository": {
-    "url": "https://github.com/DinzID/DinzV1Baileys"
+    "url": "https://github.com/roms910/roms"
   },
   "license": "MIT",
-  "author": "DinzID",
+  "author": "romss",
   "main": "lib/index.js",
   "files": [
     "lib/*",
